@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Hero image](/assets/img/posts/techno-timgithub-profile.webp)
-
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpox796LJz_0HqMfYEChAZw?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)]()
 [![GitHub followers](https://img.shields.io/github/followers/hackmode?logo=GitHub&style=for-the-badge)](https://github.com/HackMode/)
 
