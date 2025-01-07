@@ -4,10 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpox796LJz_0HqMfYEChAZw?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)]()
-[![GitHub followers](https://img.shields.io/github/followers/hackmode?logo=GitHub&style=for-the-badge)](https://github.com/HackMode/)
 
-# 👋 Hi!
 Welcome to my corner of the internet! I’m a cybersecurity enthusiast with a passion for tackling challenges and unraveling complex puzzles. My journey into the world of cybersecurity began with a fascination for technology and a desire to understand how things work beneath the surface.
 
 Currently, I’m diving deep into Capture The Flag (CTF) challenges on platforms like Hack The Box. These hands-on experiences not only sharpen my skills but also fuel my excitement for the field. Every challenge is an opportunity to learn, adapt, and think critically, and I thrive on the adrenaline that comes from solving tough problems.
