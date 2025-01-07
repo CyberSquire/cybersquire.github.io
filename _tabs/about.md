@@ -15,5 +15,3 @@ Currently, I’m diving deep into Capture The Flag (CTF) challenges on platforms
 This blog is primarily focused on my preparation for the Offensive Security Certified Professional (OSCP) certification. I’ll be sharing my insights, study strategies, and resources that I find helpful along the way. Whether you’re a fellow aspiring OSCP candidate, a seasoned professional, or just curious about cybersecurity, I hope you find something valuable here.
 
 Join me on this journey as I explore the intricacies of penetration testing, share tips for navigating CTFs, and document my progress toward achieving the OSCP. Let’s connect, learn, and grow together in this ever-evolving field!
-
-Feel free to reach out or leave comments—I’d love to hear your thoughts and experiences. Happy hacking!
