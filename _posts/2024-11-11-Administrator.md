@@ -2,13 +2,10 @@
 title: Administrator
 categories: [Walkthroughs,HackTheBox,Medium]
 tags: [windows,Administrator,htb,hackthebox,Shadow Credentials,targeted kerberoasting]
-description: In this walkthrough, we explore the Administrator machine on Hack The Box, demonstrating how common security misconfigurations can lead to significant vulnerabilities. By leveraging Kerberoasting, improper DACL permissions, and poor password management, we successfully escalated privileges and gained full control over the system. This exercise highlights the critical importance of regular security audits, proper account configuration, and the implementation of strong password practices in defending against real-world cyber threats.
 image:
-  path: https://labs.hackthebox.com/storage/avatars/9d232b1558b7543c7cb85f2774687363.png
-  alt: Administrator machine logo from hack the box
+  path: /assets/img/htb/administrator/card.png
+  alt: 
 ---
-
-## Summary
 
 The **Administrator** machine on Hack The Box is an excellent example of how common misconfigurations can lead to severe security vulnerabilities. Through a combination of Kerberoasting, improper DACL permissions, and poor password management, I was able to escalate privileges and gain full control over the machine. This exercise reinforced the importance of regular security audits, proper account configuration, and strong password practices to defend against real-world threats.
 
